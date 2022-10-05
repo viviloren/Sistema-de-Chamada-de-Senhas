@@ -1,0 +1,41 @@
+body{
+padding: 0;
+margin: 0;
+
+}
+
+header{
+    height: 60px;
+    background: blue;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+main {
+
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.senha {
+padding: 30px;
+border: 2px solid black;
+border-radius: 40px;
+background-color: gray;
+color: white;
+font-size: 50px;
+min-width: 300px;
+text-align: center;
+}
+
+#senha {
+border: 1px solid black;
+border-radius: 30px;
+padding: 20px;
+background-color: blue;
+text-align: center;
+}
